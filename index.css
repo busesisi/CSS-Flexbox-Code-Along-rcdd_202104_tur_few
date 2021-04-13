@@ -17,7 +17,7 @@ main {
   display: flex;
 flex-flow: row wrap;
 justify-content: center;
-align-items: stretch;
+align-items: baseline;
 }
 
 footer {
@@ -36,4 +36,5 @@ height: 100px;
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
+  flex-direction: row;
 }
