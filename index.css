@@ -40,3 +40,7 @@ height: 100px;
   justify-content: center;
 align-items: center;
 }
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
